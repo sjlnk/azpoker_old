@@ -1,0 +1,9 @@
+*.csv
+.idea
+__pycache__
+*.yaml
+*.log
+*.csv
+*~
+*.swp
+*~lock*
